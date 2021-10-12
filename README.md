@@ -3,11 +3,16 @@
 This repository is for showing how Git and GitHub work
 
 ## Introduction
+
 making an introduction
 
-## Purpose
+## Purpose 
+
+purpose is to provide simple example
 
 ## Deployment
+
+this is a simple web project
 
 ##How To Contribute
 
