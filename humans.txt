@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Johnric Guyano		Johnric@gmail.com		@Johnny
 
 # THANKS
 
