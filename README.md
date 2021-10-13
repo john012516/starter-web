@@ -19,4 +19,4 @@ this is a simple web project
 please for this repository and the issue pull request for review.
 
 ###Copyright
-copyright training
+copyright training, all right reserve
