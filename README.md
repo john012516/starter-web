@@ -17,3 +17,6 @@ this is a simple web project
 ##How To Contribute
 
 Sample website with plenty of files for demos
+
+###Copyright
+copyright training
