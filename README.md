@@ -16,7 +16,7 @@ this is a simple web project
 
 ##How To Contribute
 
-Sample website with plenty of files for demos
+please for this repository and the issue pull request for review.
 
 ###Copyright
 copyright training
